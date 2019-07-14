@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Car_parking is an app built in order to permit python developper beginner to practise by coding an app which create school timetable.
+School timetable is an app built in order to permit python developper beginner to practise by coding an app which create school timetable.
 
 
 ### Scenario
